@@ -1,6 +1,6 @@
-# Microsoft Resource Download Station
-[`点此进入`](https://bob0800.github.io/mrds)   
+# Source Download
+[`点此进入`](https://bob0800.github.io/SD)   
 
-存储 Windows & MS-DOS 历代版本下载
+存储資源
        
-[`点此进入`](https://bob0800.github.io/mrds)
+[`点此进入`](https://bob0800.github.io/SD)
