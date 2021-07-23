@@ -1,11 +1,11 @@
 # Index
 ## 檔案列表
    
-[`MS-DOS`](/msdos)    
+[`MS-DOS`](./msdos)    
    
-[`Windows`](/windows)   
+[`Windows`](./windows)   
    
-[`Tools`](/tools)   
+[`Tools`](./tools)   
      
 ----------------------------------
 2021 WStudio  
