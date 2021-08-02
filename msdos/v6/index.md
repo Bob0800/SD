@@ -4,8 +4,8 @@
 ### 發佈時間
 `暂无`
 ### 下載地址
-[`77File`](https://www.77file.com/s/4oPnzbATexi)
-   
+`https://www.77file.com/s/4oPnzbATexi`
+      
 [`Back`](../)   
    
 ----------------------------------
